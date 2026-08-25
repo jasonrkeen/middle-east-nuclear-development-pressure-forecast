@@ -1,0 +1,29 @@
+dimension,indicator,mean,sd,weight,evidence_note
+strategic_incentive,direct_attack_exposure,92,5,0.23,Direct attacks and continuing conflict increase perceived regime survival risk
+strategic_incentive,regime_survival_pressure,78,10,0.18,Leadership and coercive institutions face military and economic pressure
+strategic_incentive,deterrence_gap,82,9,0.18,Conventional deterrence has not prevented attacks on Iranian territory
+strategic_incentive,diplomatic_breakdown,80,12,0.16,Interim arrangements and negotiations remain unstable
+strategic_incentive,external_guarantee_weakness,80,9,0.10,Iran lacks a formal external extended-deterrence guarantee
+strategic_incentive,regional_nuclear_asymmetry,88,7,0.15,Israel is assessed by SIPRI as nuclear armed
+capability_continuity,technical_expertise,84,8,0.24,Scientific and engineering knowledge is more resilient than fixed infrastructure
+capability_continuity,fissile_material_continuity,62,20,0.24,IAEA has lost continuity of knowledge over previously declared material
+capability_continuity,facility_survivability,38,17,0.18,Multiple facilities were damaged and current condition is uncertain
+capability_continuity,reconstitution_capacity,55,15,0.16,Industrial reconstruction is plausible but constrained and observable only in part
+capability_continuity,procurement_access,35,13,0.10,Sanctions and interdiction constrain specialized procurement
+capability_continuity,financial_capacity,32,14,0.08,War damage sanctions inflation and lost trade constrain financing
+verification_observability,iaea_access,15,10,0.30,IAEA access is limited outside Bushehr
+verification_observability,inventory_continuity,5,6,0.25,IAEA reported loss of continuity of knowledge
+verification_observability,declaration_completeness,10,8,0.20,Current facility and material declarations are incomplete
+verification_observability,monitoring_continuity,10,8,0.15,In-field verification was interrupted by conflict
+verification_observability,independent_corroboration,50,14,0.10,Commercial satellite imagery provides partial corroboration
+diplomatic_opening,formal_talks_momentum,18,15,0.45,Public reporting indicates no stable formal negotiation process
+diplomatic_opening,mediator_channel_strength,38,18,0.30,Oman and other intermediaries provide limited channels
+diplomatic_opening,enforceable_verification_offer,12,10,0.25,No durable verified settlement is in force
+economic_constraint,economic_pressure,82,10,0.45,Sanctions war damage and trade disruption are severe
+economic_constraint,oil_export_constraint,78,14,0.30,Oil exports and maritime access remain disrupted
+economic_constraint,reconstruction_burden,66,13,0.25,Infrastructure repair competes for scarce resources
+regional_cascade,regional_security_anxiety,74,10,0.45,Gulf facilities and states have been exposed to conflict spillover
+regional_cascade,security_guarantee_uncertainty,62,13,0.25,Confidence in external guarantees is under stress
+regional_cascade,civil_nuclear_expansion,48,14,0.15,Several regional states are expanding civilian nuclear capabilities
+regional_cascade,regional_restraint_framework,24,12,0.15,No comprehensive regional arms-control framework exists
+

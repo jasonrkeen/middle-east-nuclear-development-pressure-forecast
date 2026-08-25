@@ -1,0 +1,5 @@
+case_id,description,expected_scenario,dominant_scenario,passed,p_freeze,p_threshold,p_weaponization,p_decline
+SV01,Durable diplomacy with restored verification and lower threat,Verified freeze or rollback,Verified freeze or rollback,True,0.9997077273134389,1.7201814094483883e-08,5.114274231858312e-10,0.0002922549733193547
+SV02,High incentive with weak verification and moderate capability,Opaque threshold rebuilding,Opaque threshold rebuilding,True,0.0482937751595629,0.506296152032508,0.4290430811273324,0.016366991680596715
+SV03,Extreme incentive and capability with collapsed diplomacy,Accelerated weaponization decision,Accelerated weaponization decision,True,2.628146484869333e-06,0.06290816714386563,0.937088963312743,2.4139690634366036e-07
+SV04,Severe technical and financial constraint without a credible accord,Sustained capability decline,Sustained capability decline,True,0.0642043203523097,0.00022579892429380193,9.632969679044417e-06,0.9355602477537175

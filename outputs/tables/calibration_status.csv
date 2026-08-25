@@ -1,0 +1,4 @@
+forecast_id,model_version,horizon_months,target_date,score_status,realized_scenario,brier_score,log_loss
+MENDPF-20260821-12M,0.1.0,12,2027-08-21,open_not_matured,,,
+MENDPF-20260821-24M,0.1.0,24,2028-08-21,open_not_matured,,,
+MENDPF-20260821-36M,0.1.0,36,2029-08-21,open_not_matured,,,

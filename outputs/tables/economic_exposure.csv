@@ -1,0 +1,16 @@
+horizon_months,metric,probability_weighted_exposure_index
+12,energy_market_risk,56.095454221434586
+12,shipping_disruption_risk,53.45361737398223
+12,defense_spending_pressure,62.74025576982208
+12,sovereign_risk_pressure,54.169943679077505
+12,civil_nuclear_capex_pressure,62.11347195686358
+24,energy_market_risk,56.178889713000444
+24,shipping_disruption_risk,53.48088264867466
+24,defense_spending_pressure,62.67645622278225
+24,sovereign_risk_pressure,54.08486852002308
+24,civil_nuclear_capex_pressure,62.19063878644355
+36,energy_market_risk,55.68158046726743
+36,shipping_disruption_risk,52.941222539594555
+36,defense_spending_pressure,62.08550242713761
+36,sovereign_risk_pressure,53.46050668424879
+36,civil_nuclear_capex_pressure,61.8335766974953

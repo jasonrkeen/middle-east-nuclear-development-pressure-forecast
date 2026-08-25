@@ -1,0 +1,7 @@
+actor,mean_pressure,p05,p50,p95,classification,analytic_role
+Iran,70.04271488376628,64.9682186240319,70.05967821570312,75.02627704860316,High,Primary actor; pressure reflects latency and weaponization pathways under direct attack and low observability
+Israel,60.405377678701605,55.30362408504858,60.42082319776672,65.59247456098916,Elevated,Assessed nuclear-armed state; score represents modernization and posture pressure rather than new acquisition
+Saudi Arabia,55.274033046562,50.1665060271781,55.269331668615976,60.4718333722246,Elevated,Highest secondary hedging pressure; civilian expansion is not evidence of weaponization
+United Arab Emirates,44.05097401115006,39.21890298085901,43.99408669216084,49.00457968387502,Guarded,High threat exposure but strong safeguards and nonproliferation commitments restrain weapons pathways
+Turkey,41.6084487169565,36.43935056451934,41.60793264543712,46.812424547748265,Guarded,NATO ties restrain acquisition pressure while regional autonomy and civilian capacity support hedging
+Egypt,28.965150586026635,23.822139872952942,29.004130921740064,34.20376679500109,Low,Strategic status concerns exist but fiscal and technical constraints limit near-term options

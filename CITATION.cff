@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this model, please cite the software and identify the forecast issuance date."
+title: "Middle East Nuclear Development Pressure Forecast"
+type: software
+authors:
+  - family-names: Keen
+    given-names: Jason
+version: 0.2.1
+date-released: 2026-08-21
+license: MIT
+repository-code: "https://github.com/jasonrkeen/middle-east-nuclear-development-pressure-forecast"
+abstract: "A reproducible OSINT scenario model of Iran-Israel-Gulf nuclear-development pressure with Monte Carlo uncertainty and forecast governance."
+keywords:
+  - OSINT
+  - geopolitical risk
+  - nuclear safeguards
+  - scenario forecasting
+  - Monte Carlo

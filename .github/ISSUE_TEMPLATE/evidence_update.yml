@@ -1,0 +1,67 @@
+name: Evidence update
+description: Propose a source-backed change to an existing model indicator.
+title: "Evidence update: "
+labels: ["evidence-review"]
+body:
+  - type: input
+    id: source
+    attributes:
+      label: Public source URL
+    validations:
+      required: true
+  - type: input
+    id: date
+    attributes:
+      label: Publication or observation date
+      placeholder: YYYY-MM-DD
+    validations:
+      required: true
+  - type: input
+    id: indicator
+    attributes:
+      label: Existing indicator
+    validations:
+      required: true
+  - type: dropdown
+    id: evidence_state
+    attributes:
+      label: Evidence state
+      options:
+        - Confirmed
+        - Not detected
+        - No coverage
+    validations:
+      required: true
+  - type: dropdown
+    id: confidence
+    attributes:
+      label: Confidence
+      options:
+        - High
+        - Medium
+        - Low
+    validations:
+      required: true
+  - type: input
+    id: delta
+    attributes:
+      label: Proposed raw point adjustment
+      description: Use a signed value and explain why the magnitude is proportionate.
+      placeholder: "+5 or -10"
+    validations:
+      required: true
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Rationale and contradictory evidence
+    validations:
+      required: true
+  - type: checkboxes
+    id: safeguards
+    attributes:
+      label: Submission checks
+      options:
+        - label: I have not treated missing coverage as proof of prohibited activity.
+          required: true
+        - label: This submission contains no weapon design or operational assistance.
+          required: true

@@ -1,0 +1,14 @@
+[project]
+name = "middle-east-nuclear-development-pressure-forecast"
+version = "0.2.1"
+description = "Conditional OSINT scenario forecast for Iran-Israel-Gulf nuclear-development pressure."
+requires-python = ">=3.10"
+dependencies = [
+  "numpy>=1.26",
+  "pandas>=2.1",
+  "matplotlib>=3.8",
+  "reportlab>=4.0",
+]
+
+[tool.setuptools]
+packages = ["src"]

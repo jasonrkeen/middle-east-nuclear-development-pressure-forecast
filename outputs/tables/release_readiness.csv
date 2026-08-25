@@ -1,0 +1,18 @@
+check_id,status,detail
+required_files,pass,complete
+version_alignment,pass,package=0.2.1; pyproject=0.2.1
+schema:current_indicators.csv,pass,complete
+schema:forecast_registry.csv,pass,complete
+schema:evidence_updates.csv,pass,complete
+indicator_bounds,pass,means within 0-100 and standard deviations non-negative
+indicator_weights,pass,weights sum to one within each dimension
+indicator_ids,pass,indicator names are unique
+registry_probabilities,pass,probabilities are bounded and sum to one
+registry_ids,pass,forecast IDs are unique
+registry_dates,pass,target dates follow issuance dates
+registry_fingerprint,pass,sha256=c16aa762c7cd05cb8196e4d7ea4a1d9cb7f0f9fc1204d53bfeaf4f171da0ff22
+source_ids,pass,source IDs are unique
+source_urls,pass,all sources use HTTPS
+source_freshness_limits,pass,freshness limits are non-negative
+evidence_update_values,pass,no pending evidence rows
+structural_validation,pass,4/4 cases passed

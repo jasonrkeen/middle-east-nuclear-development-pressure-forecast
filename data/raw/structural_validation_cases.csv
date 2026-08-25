@@ -1,0 +1,5 @@
+case_id,description,horizon_months,expected_scenario,strategic_incentive,capability_continuity,verification_observability,diplomatic_opening,economic_constraint,regional_cascade
+SV01,Durable diplomacy with restored verification and lower threat,12,Verified freeze or rollback,30,50,85,88,55,25
+SV02,High incentive with weak verification and moderate capability,12,Opaque threshold rebuilding,78,60,8,18,55,58
+SV03,Extreme incentive and capability with collapsed diplomacy,12,Accelerated weaponization decision,98,88,5,3,15,95
+SV04,Severe technical and financial constraint without a credible accord,12,Sustained capability decline,50,5,10,15,100,25
