@@ -6,7 +6,7 @@ A reproducible OSINT scenario model assessing whether the Iran-Israel-Gulf confl
 
 ## Current baseline
 
-Evidence cutoff: **21 August 2026**. The preliminary baseline separates three propositions that are often incorrectly collapsed:
+Context reviewed through: **25 August 2026**. The quantitative forecast baseline was issued and frozen on **21 August 2026**. The preliminary baseline separates three propositions that are often incorrectly collapsed:
 
 - strategic motivation may rise;
 - technical capability may be damaged or constrained; and
@@ -33,10 +33,10 @@ Running the pipeline generates:
 ## Quick start
 
 ```powershell
-py -m venv .venv
+python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 python -m pip install -r requirements.txt
-python main.py --simulations 10000 --seed 20260821 --as-of 2026-08-21
+python main.py --simulations 10000 --seed 20260821 --as-of 2026-08-25
 python -m unittest discover -s tests -v
 python scripts/release_check.py
 ```
